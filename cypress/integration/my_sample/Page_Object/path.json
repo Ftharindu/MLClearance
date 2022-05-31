@@ -1,0 +1,6 @@
+{
+    "formname":"//*[@id='121c1407-91f6-4004-9649-89b9a8f4e215']/td[3]/a/strong/h3",
+    "CF_Name":"#root > div > div > div > div > div > div:nth-child(1) > div > div:nth-child(2) > div > div > div > div > div > div > div > div > div:nth-child(1) > div:nth-child(1) > div > div > p",
+    "CF_Genre":"#root > div > div > div > div > div > div:nth-child(1) > div > div:nth-child(2) > div > div > div.jss48 > div > div > div > div > div > div:nth-child(1) > div:nth-child(2) > div > p",
+    "CF_Deadline":"#root > div > div > div > div > div > div:nth-child(1) > div > div:nth-child(2) > div > div > div > div > div > div > div > div > div:nth-child(1) > div:nth-child(3) > div > p"
+}
